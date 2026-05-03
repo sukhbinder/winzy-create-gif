@@ -1,6 +1,6 @@
 [project]
 name = "winzy-create-gif"
-version = "0.0.1"
+version = "0.0.2"
 description = "Create gifs from files in a folder."
 readme = "README.md"
 authors = [{name = "Sukhbinder Singh"}]
