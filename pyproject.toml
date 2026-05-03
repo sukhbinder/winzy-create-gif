@@ -11,6 +11,8 @@ classifiers = [
 dependencies = [
     "winzy",
     "imageio",
+    "numpy",
+    "pillow"
 ]
 
 [project.urls]
